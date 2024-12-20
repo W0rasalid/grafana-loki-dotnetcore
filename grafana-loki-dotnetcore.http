@@ -1,0 +1,6 @@
+@grafana_loki_dotnetcore_HostAddress = http://localhost:5110
+
+GET {{grafana_loki_dotnetcore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

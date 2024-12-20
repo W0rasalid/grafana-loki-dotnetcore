@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\grafana-loki-dotnetcore.props" />
+</Project>

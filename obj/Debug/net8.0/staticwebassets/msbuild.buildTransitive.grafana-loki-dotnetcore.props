@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\grafana-loki-dotnetcore.props" />
+</Project>

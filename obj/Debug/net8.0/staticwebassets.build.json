@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rCvcAdsFcPteHBLmRurNNYNRonEO5s/FQgDb1jGX8CI=",
+  "Source": "grafana-loki-dotnetcore",
+  "BasePath": "_content/grafana-loki-dotnetcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
